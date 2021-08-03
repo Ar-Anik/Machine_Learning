@@ -1,0 +1,16 @@
+﻿Age ,Income,Gender,Relationship,Shirt_Buy
+<25,High,Male,Single,No
+<25,High,Male,Married,No
+25-35,High,Male,Single,Yes
+>35,Medium,Male,Single,Yes
+>35,Low,Female,Single,Yes
+>35,Low,Female,Single,No
+25-35,Low,Female,Married,Yes
+<25,Medium,Male,Married,No
+<25,Low,Female,Single,Yes
+>35,Medium,Female,Married,Yes
+<25,Medium,Female,Single,Yes
+25-35,Medium,Male,Married,Yes
+25-35,High,Female,Single,Yes
+>35,High,Male,Married,No
+<25,High,Male,Single,No
